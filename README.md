@@ -18,3 +18,28 @@ qr-code-generator/
 ├── style.css
 ├── script.js
 └── README.md
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript (ES6)
+- QR Code API
+
+## 📸 Screenshot
+
+Add a screenshot of your project here.
+
+## ⚙️ How It Works
+
+1. Enter text, a URL, or any data into the input field.
+2. Click the **Generate QR Code** button.
+3. The application sends the data to a QR code service.
+4. A QR code image is generated and displayed instantly.
+
+## 📋 Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/your-username/qr-code-generator.git
