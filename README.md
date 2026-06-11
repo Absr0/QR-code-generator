@@ -43,3 +43,16 @@ Add a screenshot of your project here.
 
 ```bash
 git clone https://github.com/your-username/qr-code-generator.git
+Navigate to the project folder:
+cd qr-code-generator
+Open index.html in your browser.
+
+No additional dependencies or installation steps are required.
+
+💡 Example Usage
+
+Input:
+
+https://www.google.com
+
+Output:
