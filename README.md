@@ -12,3 +12,9 @@ A simple and responsive QR Code Generator built using **HTML**, **CSS**, and **J
 - Works directly in the browser
 
 ## 📂 Project Structure
+qr-code-generator/
+│
+├── index.html
+├── style.css
+├── script.js
+└── README.md
