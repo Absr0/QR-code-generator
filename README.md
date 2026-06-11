@@ -50,7 +50,20 @@ Open index.html in your browser.
 No additional dependencies or installation steps are required.
 
 💡 Example Usage
+A QR code that opens Google when scanned.
 
+🔧 Future Improvements
+Download generated QR codes
+Custom QR code colors
+Different QR code sizes
+QR code history
+Dark mode support
+🤝 Contributing
+
+Contributions are welcome.
+
+Fork the repository.
+Create a new branch:
 Input:
 
 https://www.google.com
