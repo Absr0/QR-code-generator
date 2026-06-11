@@ -67,7 +67,16 @@ Create a new branch:
 Input:
 
 https://www.google.com
+Open a Pull Request.
+📄 License
 
+This project is licensed under the MIT License.
+
+👨‍💻 Author
+
+Abdurahman Siraj
+
+Feel free to use, modify, and share this project for learning and educational purposes.
 Output:
 git checkout -b feature-name
 Commit your changes:
